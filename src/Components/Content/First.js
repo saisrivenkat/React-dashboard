@@ -3,7 +3,7 @@ import React from 'react'
 function First() {
     return (
         <div>
-            <div class="card" style={{ width: "22rem" }}>
+            <div class="card card-style" style={{ width: "22rem" }}>
                 <div class="card-body">
                     <h5 class="card-title">Upcoming lessons</h5>
                     <div

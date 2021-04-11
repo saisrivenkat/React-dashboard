@@ -2,9 +2,9 @@ import React from 'react'
 
 function Courses() {
     return (
-        <div classname="courses row">
+        <div classname="courses row " style={{ marginTop: "10px" }}>
             <div className="col-lg-12">
-                <div class="card">
+                <div class="card card-style">
                     <h5 class="card-header">My Courses</h5>
                     <div class="card-body">
                         <div class="row">

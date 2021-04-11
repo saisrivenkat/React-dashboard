@@ -3,7 +3,7 @@ import React from 'react'
 function Leaderboard() {
     return (
         <>
-            <div class="card" style={{ width: "20rem", marginLeft: "-50px" }}>
+            <div class="card card-style" style={{ width: "20rem", marginLeft: "-50px" }}>
                 <div class="card-body">
                     <h5 class="card-title">Leader Board</h5>
                     <table class="table">

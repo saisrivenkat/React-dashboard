@@ -29,7 +29,7 @@ function LineChart() {
         <div className="line-chart row">
             <div className='col-lg-6'>
                 <div className=" " style={{ marginTop: "15px" }}>
-                    <div class="card">
+                    <div class="card card-style">
                         <h5 class="card-header">User Graph</h5>
                         <div class="card-body">
                             <Line data={data} />

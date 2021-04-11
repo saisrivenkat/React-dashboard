@@ -26,8 +26,8 @@ function BarChart() {
         <>
 
             <div className=" " style={{ marginTop: "15px" }}>
-                <div class="card">
-                    <h5 class="card-header">User Graph</h5>
+                <div class="card card-style">
+                    <h5 class="card-header">Homework Graph</h5>
                     <div class="card-body">
                         <Bar data={data} />
                     </div>

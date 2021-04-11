@@ -32,10 +32,19 @@ h1 {
   padding-top: 1rem;
   margin-right: 120px;
 }
-.card {
+.card-style {
   background-color: #fff;
   border-radius: 10px;
   position: relative;
   border: 1px solid #deebdf;
   box-shadow: -8px 12px 18px 0 #dadee8;
+}
+.card-style .form-check input {
+  padding: 10px;
+}
+.form-check:not(:first-child) {
+  margin-top: 10px;
+}
+.form-check label {
+  padding: 2px 0 0 10px;
 }
