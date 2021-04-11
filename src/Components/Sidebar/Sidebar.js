@@ -33,7 +33,7 @@ function Sidebar() {
                             <i class="fa fa-book" style={{ padding: "5px" }}></i>My Courses
             </li>
                         <li className="sidebar-item">
-                            <i class="fa fa-home" style={{ padding: "5px" }}></i>Acheivments
+                            <i class="fa fa-trophy" style={{ padding: "5px" }}></i>Acheivments
             </li>
                     </ul>
                 </div>

@@ -5,7 +5,10 @@ function Courses() {
         <div classname="courses row " style={{ marginTop: "10px" }}>
             <div className="col-lg-12">
                 <div class="card card-style">
-                    <h5 class="card-header">My Courses</h5>
+                    <div className="card-header" style={{ display: "flex", paddingTop: "15px" }}>
+                        <h5>My courses</h5>
+                        <p style={{ marginLeft: "auto" }}><a href="#" style={{ textDecoration: "none" }}> See More ...</a></p>
+                    </div>
                     <div class="card-body">
                         <div class="row">
                             <div class="col-sm-6">
@@ -68,8 +71,8 @@ function Courses() {
                                                     flexDirection: "column",
                                                 }}
                                             >
-                                                <h5>Maths</h5>
-                                                <p>30 lessons</p>
+                                                <h5>Physics</h5>
+                                                <p>32 lessons</p>
                                             </div>
                                         </div>
                                         <div

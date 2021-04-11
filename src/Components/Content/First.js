@@ -45,11 +45,11 @@ function First() {
                     >
                         <div style={{ padding: "10px 0 10px 10px" }}>
                             <span>
-                                June 4 <br></br> 4:00 PM
+                                June 12 <br></br> 8:00 AM
                       </span>
                         </div>
                         <div style={{ alignSelf: "center" }}>
-                            <span>Algebra</span>
+                            <span>Statistics</span>
                         </div>
                         <div style={{ padding: "10px 10px 10px 0" }}>
                             <img
@@ -72,11 +72,11 @@ function First() {
                     >
                         <div style={{ padding: "10px 0 10px 10px" }}>
                             <span>
-                                June 4 <br></br> 4:00 PM
+                                June 15 <br></br> 5:00 PM
                       </span>
                         </div>
                         <div style={{ alignSelf: "center" }}>
-                            <span>Algebra</span>
+                            <span>Probability</span>
                         </div>
                         <div style={{ padding: "10px 10px 10px 0" }}>
                             <img
